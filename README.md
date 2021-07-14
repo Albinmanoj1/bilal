@@ -128,7 +128,7 @@ the user is responsible.
 
 ### The Hard Method
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
+$ git clone https://github.com/AMALPRO/Amalser
 $ cd WhatsAsenaDuplicated
 $ npm i
 $ nano Config.env
